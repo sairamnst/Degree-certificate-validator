@@ -1,0 +1,5 @@
+streamlit==1.39.0
+qrcode==8.0
+pycryptodome==3.22.0
+pyzbar==0.1.9
+pillow==9.4.0
